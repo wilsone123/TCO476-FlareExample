@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="">
+    <Page Name="All" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="0.5in" PaddingBottom="0.5in" BackgroundRepeat="no-repeat" Orientation="portrait" BackgroundImage="../Images/SanDiegoCover.jpg" BackgroundPositionX="left">
+        <Frame Flow="body" Y="-1px" Bottom="48px" X="0px" Right="0px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="720px" Height="913px">
+        </Frame>
+    </Page>
+</PageStyles>

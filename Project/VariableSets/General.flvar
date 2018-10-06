@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">My Company, LLC</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="858 123 4567">858 123 4567</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress"
+    EvaluatedDefinition="1234 Lorem Ipsum">1234 Lorem Ipsum</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="La Jolla, CA 92037">La Jolla, CA 92037</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    EvaluatedDefinition="http://www.madcapsoftware.com">http://www.madcapsoftware.com</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-07-30T15:17:36.3157200-07:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="GuideTitle"
+    Comment=""
+    EvaluatedDefinition="All About San Diego">All About San Diego</Variable>
+</CatapultVariableSet>
